@@ -10,7 +10,7 @@ before_install:
     - if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install screenresolution; fi
 
 script:
-    - time ./Polleyfetch --travis -v
-    - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then shellcheck -e SC2244 -e SC2243 Polleyfetch; fi
+    - time ./polleyfetch --travis -v
+    - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then shellcheck -e SC2244 -e SC2243 polleyfetch; fi
     # Check for lines longer than 100 chars.
-    - if grep '.\{102\}' Polleyfetch; then (exit 1); else (exit 0); fi
+    - if grep '.\{102\}' polleyfetch; then (exit 1); else (exit 0); fi
