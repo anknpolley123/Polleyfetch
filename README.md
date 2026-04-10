@@ -1,4 +1,7 @@
 # Polleyfetch 🚀
+A fast, highly customizable system information tool written in Bash. **Polleyfetch** displays information about your operating system, software, and hardware in an aesthetic way alongside your favorite ASCII logo.
+
+
 <p align="left">
   <a href="https://www.instagram.com/itz_vorzhevik_volnyshev?igsh=OTNqMndzdDFzZ293">
     <img src="https://img.shields.io/badge/Instagram-Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -26,7 +29,6 @@
   </a>
 </p>
 
-A fast, highly customizable system information tool written in Bash. **Polleyfetch** displays information about your operating system, software, and hardware in an aesthetic way alongside your favorite ASCII logo.
 
 ## 📸 Preview
 This is a rebranded version of Neofetch, customized specifically for academic and personal use, featuring optimized configurations for Kali Linux and Termux environments.
