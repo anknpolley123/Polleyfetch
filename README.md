@@ -11,7 +11,7 @@ To install **Polleyfetch** globally on your system, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anknpolley123/Polleyfetch.git](https://github.com/anknpolley123/Polleyfetch.git
+   git clone https://github.com/anknpolley123/Polleyfetch.git
    ```
 2. **Navigate to the directory:**
    ```bash
