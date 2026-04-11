@@ -56,5 +56,10 @@ To install **Polleyfetch** globally on your system, follow these steps:
    ```bash
    polleyfetch
    ```
-   
+ 
+## Legal Disclaimer 
+
+This Tool is only for Educational Purpose. We are not responsible for the Misuse or Any Harm by it.
+
+[Thank You For Using My linux Tool **Polleyfetch**] 
    
